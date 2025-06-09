@@ -1,0 +1,23 @@
+[ERROR] 2025-06-06 07:18:36,849 line 44, in <module>, session_id=bd60e76b61e844c78bf4eabf37390183: 初期化処理に失敗しました。
+pymupdf package not found, please install it with `pip install pymupdf`
+[ERROR] 2025-06-06 07:21:56,164 line 44, in <module>, session_id=d496dd06384644d1b002894cb9bb8c76: 初期化処理に失敗しました。
+pymupdf package not found, please install it with `pip install pymupdf`
+[ERROR] 2025-06-06 07:24:52,620 line 44, in <module>, session_id=9a66fc3187b24fd6a7d80634be5fe7b5: 初期化処理に失敗しました。
+pymupdf package not found, please install it with `pip install pymupdf`
+[ERROR] 2025-06-06 07:26:23,612 line 44, in <module>, session_id=83f1d79213b1467ca414ded37c4f18a2: 初期化処理に失敗しました。
+pymupdf package not found, please install it with `pip install pymupdf`
+[ERROR] 2025-06-06 07:39:34,820 line 44, in <module>, session_id=026ebbb8061c41718aab220dc3679401: 初期化処理に失敗しました。
+pymupdf package not found, please install it with `pip install pymupdf`
+[ERROR] 2025-06-06 07:41:04,493 line 44, in <module>, session_id=026ebbb8061c41718aab220dc3679401: 初期化処理に失敗しました。
+pymupdf package not found, please install it with `pip install pymupdf`
+[ERROR] 2025-06-06 07:42:00,955 line 44, in <module>, session_id=026ebbb8061c41718aab220dc3679401: 初期化処理に失敗しました。
+pymupdf package not found, please install it with `pip install pymupdf`
+[ERROR] 2025-06-06 07:55:40,230 line 44, in <module>, session_id=4697dde770a84c94a30ffc117bf2a28a: 初期化処理に失敗しました。
+pymupdf package not found, please install it with `pip install pymupdf`
+[ERROR] 2025-06-06 07:59:22,644 line 44, in <module>, session_id=980c4e18e0a64f93aea30ae791adf1a7: 初期化処理に失敗しました。
+No module named 'docx2txt'
+[ERROR] 2025-06-06 08:00:55,360 line 44, in <module>, session_id=ef798ebd7d724136bffeee0985a78a18: 初期化処理に失敗しました。
+No module named 'bs4'
+[ERROR] 2025-06-06 08:01:51,766 line 44, in <module>, session_id=7e55356ab1af46fba207d970d5b0e3b1: 初期化処理に失敗しました。
+Could not import chromadb python package. Please install it with `pip install chromadb`.
+[INFO] 2025-06-06 08:04:36,021 line 53, in <module>, session_id=8b875f6aaa054872b2024b100be86e81: アプリが起動されました。
